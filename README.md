@@ -1,3 +1,6 @@
 # Demo-Tetris-Using-AmazonQ
 making a tetris game using only amazon Q developer without coding
-![image](https://github.com/user-attachments/assets/20bc9c30-b6ca-4b06-b82e-88db9010af3b)
+
+
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/0f99eb61-4245-46f9-8995-4523075d0362" />
+
